@@ -1,1 +1,1 @@
-# MNS_Courses
+All Done MNS Courses [University Repo]
