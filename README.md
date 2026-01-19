@@ -1,4 +1,4 @@
-# 🎓 University Coursework Repository
+# 🎓 University Coursework Repository [MNS Courses]
 
 This repository contains **lecture notes, assignments, question papers & study materials** from my **completed university courses**.
 
